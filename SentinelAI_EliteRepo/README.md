@@ -1,9 +1,6 @@
 
 # SentinelAI
 
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="SentinelAI Banner"/>
-</p>
 
 <h3 align="center">
 AI Security Operations Platform for Enterprise SOC & AI Governance
